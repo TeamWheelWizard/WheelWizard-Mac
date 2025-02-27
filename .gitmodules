@@ -1,0 +1,3 @@
+[submodule "WheelWizard"]
+	path = WheelWizard
+	url = https://github.com/TeamWheelWizard/WheelWizard.git
