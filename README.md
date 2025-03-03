@@ -46,11 +46,10 @@ Check the releases tab to download the Mac version. Either choose the version fo
 1. To make a Mii, you need to first open Dolphin
 2. In the menu bar, open **Tools / Load Wii System Menu** (or do **Perform Online System Update** first if this option is greyed out)
 3. Launch Mario Kart Wii and make a license with your Mii
-
+4. To get your friend code, connect to Retro WFC. It should show up in game and in Wheel Wizard
 
 ## Playing online
 From the main menu, select Retro WFC for your desired amount of players. From there you can get your friend code, add friends, and join lobbies!
-Once you have don
 
 ### Troubleshooting
 - **Online play not working?** This may be with your network not allowing peer2peer connections. Try modifying your br
