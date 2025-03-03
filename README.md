@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="https://img.shields.io/github/v/release/TeamWheelWizard/WheelWizard?color=green&style=for-the-badge" alt="GitHub release (latest by date)" />
+  <img src="https://img.shields.io/github/downloads/TeamWheelWizard/WheelWizard/total?color=green&style=for-the-badge" alt="GitHub Downloads (all assets, all releases)" />
+  <a href="https://discord.gg/vZ7T2wJnsq">
+    <img src="https://img.shields.io/discord/1253384439937896560?color=7289da&style=for-the-badge" alt="Discord" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/TeamWheelWizard/.github/blob/main/images/macos_WheelWizard_text_icon.png" alt="Wheel Wizard Macos Logo" width="500"/>
 </p>
 
@@ -42,13 +50,13 @@ Check the releases tab to download the Mac version. Either choose the version fo
 4. If your controller or audio settings aren't working right, try experimenting with the settings. You may need to enable Launch through Dolphin
 
 
-## Getting your Mii in WheelWizard
+### Getting your Mii in WheelWizard
 1. To make a Mii, you need to first open Dolphin
 2. In the menu bar, open **Tools / Load Wii System Menu** (or do **Perform Online System Update** first if this option is greyed out)
 3. Launch Mario Kart Wii and make a license with your Mii
 4. To get your friend code, connect to Retro WFC. It should show up in game and in Wheel Wizard
 
-## Playing online
+### Playing online
 From the main menu, select Retro WFC for your desired amount of players. From there you can get your friend code, add friends, and join lobbies!
 
 ### Troubleshooting
@@ -56,4 +64,5 @@ From the main menu, select Retro WFC for your desired amount of players. From th
 - **Performance issues?** Try lowering Dolphin’s graphics settings or using a different backend (Metal/Vulkan/OpenGL).
 - Ask questions on our [Discord](https://discord.gg/vZ7T2wJnsq)
 
-
+## License 
+<p align="center" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/TeamWheelWizard/WheelWizard">Wheel wizard</a> by <span property="cc:attributionName">Patchzy and WantToBeeMe</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
