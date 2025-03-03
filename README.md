@@ -6,7 +6,7 @@
 
 ## Mario Kart Mod Manager & Retro Rewind Auto Updater
 
-Wheel Wizard is a mod manager for Mario Kart Wii on the [Dolphin Emulator](https://dolphin-emu.org/). It patches your game file to stay up to date with the [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) mod, which is currently the most popular mod used in online lobbies. This app also can be used to manage your own custom textures/mods, find online lobbies, keep track of your stats, settings, and more!
+Wheel Wizard is a mod manager for Mario Kart Wii on the [Dolphin Emulator](https://dolphin-emu.org/). It patches your game file to stay up to date with the [Retro Rewind](https://wiki.tockdom.com/wiki/Retro_Rewind) mod, which is currently the most popular mod used in online lobbies. This app also can be used to manage your own custom textures/mods, find [online lobbies](https://kevinvg207.github.io/rr-rooms/), keep track of your stats, settings, and more!
 
 ## Free and Open Source
 
