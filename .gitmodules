@@ -1,3 +1,5 @@
 [submodule "WheelWizard"]
 	path = WheelWizard
 	url = https://github.com/TeamWheelWizard/WheelWizard.git
+[submodule "https://github.com/TeamWheelWizard/WheelWizard.git"]
+	branch = AvaloniaOnly
